@@ -19,6 +19,5 @@ elif num > 1:
 # or equal to 1, it is not prime
 else:
    print(num,"not prime")
-
-
-print("last modified by Lakshmi")
+   print("hello world!!")
+   print("last modified by Lakshmi")
